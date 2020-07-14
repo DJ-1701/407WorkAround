@@ -1,4 +1,6 @@
-# Office 365 (Click To Run) - (407) Proxy Authentication Required Error
+# Dot Net - (407) Proxy Authentication Required Error
+
+Since rebranded 'Microsoft 365' no longer has Device Based Activation, this is now no longer required for deployments. Though it can be helpful if you have another application that uses Dot Net to contact the web. I have renamed the title to reflect this, the example I have left as is in case anyone wants to adapt the coding...
 
 So, you've followed the instructions for deploying Office 365 Pro Plus with Device Based Activation... most likely from an online instruction, such as [this awesome one…](https://sysadminedu.wordpress.com/2017/01/07/step-by-step-guide-to-deploying-office-365-pro-plus-with-device-based-activation-with-sccm/) but, when you come to running the OPPTransition.exe you get a problem that looks a little like this one...
 
